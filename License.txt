@@ -1,0 +1,5 @@
+
+Copyright (c) 2026 Lukas Markus Schaffarczyk, Axel Hamprecht, Nils Strodthoff. \
+\
+Permission is granted to use the software and accompanying data solely for the purpose of reproducing, validating, and reviewing the results reported in the associated scientific publication.
+Commercial use, redistribution, sublicensing, and use for the development of commercial products or services are not permitted without prior written permission from the copyright holder.
