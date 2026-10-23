@@ -55,7 +55,7 @@ python -m pip install pandas==2.2.2 numpy==1.26.4 scikit-learn==1.5.1 catboost==
 
 ## Input data
 
-Download the Excel workbook named `data.xlsx` in the same directory as `CarbaDetector_Pseudomonas.py`.
+The downloaded Excel workbook named `data.xlsx` have to be in the same directory as `CarbaDetector_Pseudomonas.py`.
 
 The workbook contain the following worksheets:
 
@@ -109,6 +109,14 @@ model_output/
 ```
 
 Outputs include trained CatBoost models, classification thresholds, and performance results for the internal and external validation datasets.
+
+## Typical install time on a "normal" desktop computer
+
+Installation of the required Python packages typically takes approximately 8-10 minutes on a standard desktop computer with a stable internet connection, assuming Python 3.12 is already installed. Installation time may vary depending on system specifications, internet speed, and package availability.
+
+## Expected runtime
+
+The complete analysis typically takes approximately 3 minutes on a standard desktop computer, including model training, threshold determination, and performance evaluation of the internal and two external validation datasets. Runtime may vary depending on hardware specifications.
 
 ## Reproducibility
 
