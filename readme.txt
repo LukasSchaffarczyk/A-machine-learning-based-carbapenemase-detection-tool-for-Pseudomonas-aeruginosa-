@@ -6,11 +6,11 @@ The analysis uses CatBoost classification models trained on inhibition zone diam
 
 ## Requirements
 The analysis requires Python 3 and the following Python packages:
-pandas
-numpy
-scikit-learn
-catboost
-openpyxl
+pandas (version 2.2.2)
+numpy (version 1.26.4)
+scikit-learn (version 1.5.1)
+catboost (version 1.2.10)
+openpyxl (version 3.1.5) 
 
 ## Input data
 The script expects an Excel file named: data.xlsx
