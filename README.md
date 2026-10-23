@@ -47,13 +47,7 @@ py -3.12 -m venv .venv
 
 ### Step 3: Install dependencies
 
-If the repository includes `requirements.txt`, run:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-Alternatively, install the packages directly:
+Install the required Python packages:
 
 ```bash
 python -m pip install pandas==2.2.2 numpy==1.26.4 scikit-learn==1.5.1 catboost==1.2.10 openpyxl==3.1.5
