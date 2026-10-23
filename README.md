@@ -55,7 +55,7 @@ python -m pip install pandas==2.2.2 numpy==1.26.4 scikit-learn==1.5.1 catboost==
 
 ## Input data
 
-The downloaded Excel workbook named `data.xlsx` have to be in the same directory as `CarbaDetector_Pseudomonas.py`.
+The downloaded Excel workbook named `data.xlsx` must be in the same directory as `CarbaDetector_Pseudomonas.py`.
 
 The workbook contain the following worksheets:
 
