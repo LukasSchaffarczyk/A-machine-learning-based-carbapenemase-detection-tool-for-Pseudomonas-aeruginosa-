@@ -24,7 +24,7 @@ Clone the repository with Git:
 
 ```bash
 git clone https://github.com/LukasSchaffarczyk/A-machine-learning-based-carbapenemase-detection-tool-for-Pseudomonas-aeruginosa-
-cd REPOSITORY
+cd ~/A-machine-learning-based-carbapenemase-detection-tool-for-Pseudomonas-aeruginosa-
 ```
 
 Alternatively, download the repository as a ZIP archive from GitHub and extract it.
