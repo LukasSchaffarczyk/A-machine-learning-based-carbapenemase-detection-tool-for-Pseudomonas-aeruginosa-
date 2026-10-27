@@ -124,4 +124,8 @@ Random seeds are fixed where applicable to support reproducible data splitting, 
 
 ## Citation
 
-If you use this code or the associated methodology, please cite the corresponding publication. Citation details will be added following publication.
+If you use this code or the associated methodology in your research, please cite the corresponding preprint:
+
+Hamprecht A, Schaffarczyk L, Muhsal L, Laufenberg R, Pfennigwerth N, Gatermann S, et al. Predicting carbapenemase production in Pseudomonas aeruginosa using machine learning on disk diffusion data [Internet]. Research Square; 2026 [cited 2026 Oct 27]. Available from: https://www.researchsquare.com/article/rs-11316217/v1 doi:10.21203/rs.3.rs-11316217/v1
+
+This manuscript is currently under peer review. The citation will be updated once the peer-reviewed article is published.
